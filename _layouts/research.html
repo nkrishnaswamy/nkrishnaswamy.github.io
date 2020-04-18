@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign _multipages = site.research | sort: 'order' -%}
+{%- include header.html scrolly_nav=_multipages -%}
+<!-- Main -->
+<div id="main">
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Sections -->
+	{%- for _page in _multipages -%}
+		{%- include section.html title=_page.title photo=_page.cover-photo photo-alt=_page.cover-photo-alt auto-header=_page.auto-header content=_page.content -%}
+	{%- endfor -%}
+</div>

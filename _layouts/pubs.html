@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{%- assign _multipages = site.pubs | sort: 'order' -%}
+{%- include header.html scrolly_nav=_multipages -%}
+<!-- Main -->
+<div id="main">
+	<article class="shade-two">
+		<div class="container">
+			<header>
+				<h2>{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+</h2>
+				{%- if page.subtitle -%}<p>{{- page.subtitle -}}</p>{%- endif -%}
+			</header>
+	    <!-- Sections -->
+	{%- for _page in _multipages -%}
+		{%- include section.html title=_page.title photo=_page.cover-photo photo-alt=_page.cover-photo-alt auto-header=_page.auto-header content=_page.content -%}
+	{%- endfor -%}
+	  </div>
+	</article>
+</div>
