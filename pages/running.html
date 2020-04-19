@@ -4,6 +4,38 @@ layout: "page"
 hide: true
 ---
 
+<head>
+  <style>
+  div {
+  }
+
+    .video-container {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+      height: 100%; 
+      overflow: hidden;
+    }
+
+    .video-container video {
+      /* Make video to at least 100% wide and tall */
+      min-width: 100%; 
+      min-height: 100%; 
+
+      /* Setting width & height to auto prevents the browser from stretching or squishing the video */
+      width: auto;
+      height: auto;
+
+      /* Center the video */
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+    }
+  </style>
+</head>
+
 <p>I was not an athletic child. In 2015, to my surprise, I discovered I was actually
   <a href="https://www.strava.com/athletes/23257344">pretty good at running</a>, and I've
   been running marathons since 2017, right after I got my Ph.D.  My near-term goals are to qualify for the Boston Marathon
@@ -16,8 +48,10 @@ hide: true
 
   <div class="row">
     <div class="6u 12u$(mobile)">
-      <div class="item">
-        <a href="#" class="image fit"><embed src="https://nkrishna.powweb.com/video/02_BostonCommon_MIT_Harvard_NorthEnd_loop.mp4" type="video/mp4"><a>
+      <div class="video container">
+        <video>
+          <source src="https://nkrishna.powweb.com/video/02_BostonCommon_MIT_Harvard_NorthEnd_loop.mp4" type="video/mp4">
+        </video>
         <header>
           <h3>Boston, MA</h3>
         </header>
