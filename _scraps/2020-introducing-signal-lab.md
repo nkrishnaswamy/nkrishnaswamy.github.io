@@ -10,5 +10,6 @@ We do a lot of work in intelligent agents (including robotics), referring expres
 * How do the ways humans interact with the world shape how we communicate about it?
 * How can multimodality improve sample efficiency in machine learning?
 * What are the structural and analytic units of contextual models?
+* How can computational image processing and computational language processing best work together?
 
-... then feel free to [get in touch](https://www.signallab.ai/contact)!
+... then feel free to [get in touch](https://www.signallab.ai/contact)!  Students of all levels are welcome, and women and underrepresented minorities are particularly encouraged to get involved.
