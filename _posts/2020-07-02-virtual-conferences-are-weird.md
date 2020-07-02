@@ -10,8 +10,4 @@ pandemic was moved to an all-virtual format.  Not knowing what to expect from a 
 attending a conference via Trello, YouTube, and Zoom, having to record a video presentation in advance and do a Q+A session at 8:45 pm, I have to hand it to SigDIAL
 and Boise State for pulling off an event that has been engaging and interesting and (eventually) easy to navigate.  Can't wait to get back to in-person conferences but this was an interesting experience and suggests be a really good way to increase accessibility for conferences, even physical ones, if done right.  I'll be doing at least two more of these this summer.
 
-The paper is [here](http://www.nikhilkrishnaswamy.com/assets/docs/pdfs/LREC-2020.pdf), and you can watch the video presentation below.
-
-<div>
-    <iframe src="https://www.youtube.com/embed/eB0yXORrRjw" frameborder="0" style="overflow: hidden; height: 50%; width: 50%; position: absolute;"></iframe>
-</div>
+The paper is [here](http://www.nikhilkrishnaswamy.com/assets/docs/pdfs/LREC-2020.pdf), and you can watch the video presentation [on YouTube](https://www.youtube.com/watch?v=eB0yXORrRjw).
