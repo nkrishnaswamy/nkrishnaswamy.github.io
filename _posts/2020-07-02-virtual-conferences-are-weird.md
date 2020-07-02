@@ -14,4 +14,4 @@ more of these this summer.
 
 You can watch the video presentation below.
 
-<embed src="https://www.youtube.com/watch?v=eB0yXORrRjw"></embed>
+<iframe src="https://www.youtube.com/watch?v=eB0yXORrRjw" height="480"></iframe>
