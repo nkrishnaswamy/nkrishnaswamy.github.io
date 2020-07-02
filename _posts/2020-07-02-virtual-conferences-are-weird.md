@@ -12,4 +12,4 @@ and Boise State for pulling off an event that has been engaging and interesting 
 
 You can watch the video presentation below.
 
-<iframe height="48080" src="https://www.youtube.com/watch?v=eB0yXORrRjw"></iframe>
+<iframe height="48080" src="https://www.youtube.com/embed/eB0yXORrRjw"></iframe>
