@@ -9,4 +9,4 @@ As we lack almost all furniture still, the SIGNAL Lab is being run from a barsto
 
 Right before leaving Boston, I presented some Brandeis/Tufts work on multimodal data exploration, using speech and haptic interfaces in the bioinformatic domain. at the HCI International virtual conference.  This was an interesting venue, comprised of a number of HCI researchers tackling AI-related topics, and me, an AI researcher giving a very HCI talk.  You can see the slides [here](https://www.nikhilkrishnaswamy.com/assets/docs/slides/HCII-2020.pdf).
 
-I'm very excited to be starting my new lab in earnest and meeting my students (hopefully in real life, COVID permitting, in a socially-distant, masked fashion).  Any CSU students interested in NLP and CL are of course always welcome to [get in touch!](/contact)
+I'm very excited to be starting my new lab in earnest and meeting my students (hopefully in real life, COVID permitting, in a socially-distant, masked fashion).  Any CSU students interested in NLP and CL are of course always welcome to [get in touch!](https://nkrishnaswamy.github.io/#contact)
