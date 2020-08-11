@@ -8,4 +8,4 @@ This was third of three papers submitted as a postdoc and presented as a profess
 
 The work discussed in this paper forms the foundations of the work in the SIGNAL Lab, and I hope that neurosymbolic AI is just getting started, and provides a number of opportunities for groundbreaking research that are barely on the horizon for the Ai and cognitive systems communities.  You can find the paper [here](assets/docs/pdfs/ACS-2020.pdf), the slides [here](assets/docs/slides/ACS-2020.pdf), and a video of the talk [here](https://www.youtube.com/watch?v=IwIvn64mT3U).
 
-(X-posted on [signallab.ai](https://www.signallab.ai/neurosymbolic-at-at-acs-2020))
+(X-posted on [signallab.ai](https://www.signallab.ai/neurosymbolic-ai-at-acs-2020))
