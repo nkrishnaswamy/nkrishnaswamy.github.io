@@ -10,6 +10,6 @@ I submitted my first attempt at an NSF CAREER award proposal.  British Columbia 
 
 I went to CogSci and presented *Exploiting Embodied Simulation to Detect Novel Object Classes Through Interaction.*  Did not get COVID again.  Toronto was really hot.
 
-I went to ESSLLI and co-taught a week-long course, *Multimodal Semantics for Affordances and Actions* (Hey, that's the same title as our award-winning paper! Coincidence? I don't know...).  The course page, including slides and recorded lectures, can be found [here](https://voxml.github.io/voxicon/blog/esslli-2022-course/).  Ireland was really hot (noticing a pattern here?).
+I went to ESSLLI and co-taught a week-long course, *Multimodal Semantics for Affordances and Actions* (Hey, that's the same title as our award-winning paper! Coincidence? I don't know...).  The course page, including slides and recorded lectures, can be found [here](https://voxml.github.io/voxicon/blog/esslli-2022-course/).  The aforementioned suitcase finally bit the dust.  Ireland was really hot (noticing a pattern here?).
 
 Our paper, *A Generalized Method for Automated Multilingual Loanword Detection*, was accepted to COLING in October (yay!)!  I bet Korea will be really hot.
