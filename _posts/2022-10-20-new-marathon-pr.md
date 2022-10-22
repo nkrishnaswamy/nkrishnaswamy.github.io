@@ -9,4 +9,4 @@ Immediately thereafter, I went to South Korea for COLING.  My legs were not plea
 
 As for next time and my next crack at 3:05, I don't know yet. Here's a picture of me in a lot of pain right before the finish line.
 
-![Exploring Embedding Spaces in Transformers by Mapping Feature Vectors](../assets/images/posts/chicago-marathon.jpg?raw=true "26 miles into the Chicago Marathon")
+![Exploring Embedding Spaces in Transformers by Mapping Feature Vectors](../../../assets/images/posts/chicago-marathon.jpg?raw=true "26 miles into the Chicago Marathon")
