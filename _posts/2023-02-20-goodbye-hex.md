@@ -3,7 +3,7 @@ title: Goodbye, Hex
 layout: post
 ---
 Yesterday, at about 4:37 pm Mountain Time, we had to say goodbye to our boy Hex.  We estimate he was about 17 and was diagnosed with aggressive, rare form
-of cancer and didn't respond effectively to treatment.
+of cancer and didn't respond effectively to treatment.  Thanks to the staff at the CSU Vet Hospital who did everything they could.
 
 My wife and I got him when we moved to Boston together from [Stray Pets in Need of Massachusetts (SPIN)](http://straypetsinneed.org) at their shelter in
 Natick.  He had been at the shelter for months when we saw him and seemed so depressed.  When we adopted him we estimate he was about 6 years old.  When we
