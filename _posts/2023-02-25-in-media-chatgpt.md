@@ -14,6 +14,6 @@ about the technology and its impact on academics and society.  The video of the 
 Then, CSU's student channel CTV Channel 11 ambushed me after class last week to interview about ChatGPT.  Lucky I'd already practiced my talking points at the
 Ethics Colloquium!  That story can be viewed [here](https://www.youtube.com/watch?v=DlDOyGY1xXI) (starts around minute 13). The student perspective is
 interesting (I think I said that I hope AI makes the world a more "equal" place, not necessarily "efficient," as the student anchor says). Let's not buy
-the ChatGPT hype folks!  Universities are here to turn out free and critical thinkers, not just effective users of AI tools.
+the ChatGPT hype, folks!  Universities are here to turn out free and critical thinkers, not just effective users of AI tools.
 
 More soon.
