@@ -10,6 +10,6 @@ Congratulations to Shadi!  You were the first Ph.D. student I started working wi
 
 Here is a picture after defense, of Shadi with her committee members: Prof. Francisco Ortega (CS) and Prof. Edwin Chong (Electrical and Computer Engineering). And me (not shown, Prof. Nathaniel Blanchard, who attended online.)
 
-![Shadi Manafi PhD Dissertation Defense](../../../assets/images/posts/shadi-defense.jpg?raw=true "Shadi Manafi PhD Dissertation Defense)
+![Shadi Manafi PhD Dissertation Defense](../../../assets/images/posts/shadi-defense.jpg?raw=true "Shadi Manafi PhD Dissertation Defense")
 
 (X-posted on [signallab.ai](https://www.signallab.ai/congratulations-shadi-manafi))
