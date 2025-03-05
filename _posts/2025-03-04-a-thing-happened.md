@@ -7,4 +7,4 @@ Today I testified before the Colorado House Judiciary Committee as a technical e
 
 In my opinion, the bill doesn't go far enough, but it represents a good first step into the unprecedented legal landscape created by the rapid integration of AI into person, business, and governmental workflows. The experience of testifying was an enlightening one for me that provided a behind the scenes look at how legislative sausage is made. We don't always get everything we want but we can get some of what we want. Trying to keep this in mind as drama at the federal level makes the deliberative legislative process seem quaint, with numbered days.
 
-And something actually happened! The bill was passed through the committee and will now proceed to the state House for a full vote.
+And something actually happened! The bill was passed through the committee and will now proceed to the state House for a full vote. Proud to stand with organizations like the Colorado AFL-CIO in support of the bill and against the likes of Comcast!
