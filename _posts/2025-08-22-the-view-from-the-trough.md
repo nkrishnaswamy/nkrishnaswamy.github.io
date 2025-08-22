@@ -9,7 +9,7 @@ Earlier this week I was in Chicago to attend the summit for the [AIVO AI Institu
 
 ![Gartner Hype Cycle](https://upload.wikimedia.org/wikipedia/commons/9/94/Gartner_Hype_Cycle.svg?raw=true "Gartner Hype Cycle")
 
-Mariah said she was probably somewhere to the right of the Peak of Inflated Expectations, on the way down into the Trough of Disillusionment, but that I (her advisor) was in the trough. She's right, however (as I then said), I've been in the trough since 2022 and never left. Kristy Boyer then called out from the audience that I should call my blog The View From the Trough.
+Mariah said she was probably somewhere to the right of the Peak of Inflated Expectations, on the way down into the Trough of Disillusionment, but that I (her advisor) was in the trough. She's right, however (as I then quipped), I've been in the trough since 2022 and never left. Kristy Boyer then called out from the audience that I should call my blog The View From the Trough.
 
 So I took her suggestion. I may use this as more of a personal and position platform in addition to solely research updates.
 
