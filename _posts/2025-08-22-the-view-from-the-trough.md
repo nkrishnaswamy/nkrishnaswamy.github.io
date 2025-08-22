@@ -5,7 +5,7 @@ layout: post
 
 Not that it matters immensely but I've renamed the blog section of this website. Here's how it came about.
 
-Earlier this week I was in Chicago to attend the summit for the [AIVO AI Institute Summer Graduate Fellow Program](https://aiinstitutes.org/july-2025-aivo-newsletter/#AI4Ed-Fellowship-Program-Ends-August%E2%80%8B), which my student [Mariah Bradford](https://bbykitty.github.io) has been participating in as one of the fellows. At the summit, I was honored to serve on a panel alongside Stephanie Teasley, Gautam Biswas, and Blair Lehman, discussing the fellows' work over the summer and positioning within the broader AI for Education community and research landscape. During the panel, Dr. Teasley brought up the Gartner Hype cycle (see below) and asked the audience where they thought we were (or where they individually were) along the hype cycle curve).
+Earlier this week I was in Chicago to attend the summit for the [AIVO AI Institute Summer Graduate Fellow Program](https://aiinstitutes.org/july-2025-aivo-newsletter/#AI4Ed-Fellowship-Program-Ends-August%E2%80%8B), which my student [Mariah Bradford](https://bbykitty.github.io) has been participating in as one of the fellows. At the summit, I was honored to serve on a panel alongside Stephanie Teasley, Gautam Biswas, and Blair Lehman, discussing the fellows' work over the summer and positioning within the broader AI for Education community and research landscape. During the panel, Dr. Teasley brought up the Gartner Hype cycle (see below) and asked the audience where they thought we were (or where they individually were) along the hype cycle curve.
 
 ![Gartner Hype Cycle](https://upload.wikimedia.org/wikipedia/commons/9/94/Gartner_Hype_Cycle.svg?raw=true "Gartner Hype Cycle")
 
